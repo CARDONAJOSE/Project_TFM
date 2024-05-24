@@ -6,5 +6,7 @@ métalloprotéinases matricielles comme protection contre l'inflammation et util
 traitement des maladies veineuses chroniques. La méthode emploie un critère simple et nouveau pour choisir les descripteurs moléculaires et utilise la validation croisée pour sélectionner les molécules actives.
 critère simple et nouveau pour choisir les descripteurs moléculaires et utilise la validation croisée pour sélectionner les paramètres du SVM.
 
-# objectifs généraux
+## objectifs généraux
 Identifier les molécules actives sur les métalloprotéinases à l'aide d'un modèle de prédiction par machine à vecteur de support. 
+## Conclusion
+le modèle SVM sur base radiale a le mieux classé les composés, présentant deux molécules comme résultats de classification la molécule de Paeoniflorin, totrazuril
