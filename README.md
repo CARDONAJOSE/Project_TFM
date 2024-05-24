@@ -1,8 +1,10 @@
 # Project_TFM
-prediction of active molecules.
+## prediction of active molecules.
 
-We emphasize the classification of active molecules for
-matrix metalloproteinases as protection against inflammation and use in
-treatment of chronic venous diseases. The method employs a simple and novel
-criterion to choose molecular descriptors and uses cross-validation to select
-SVM parameters.
+Nous insistons sur la classification des molécules actives contre les
+métalloprotéinases matricielles comme protection contre l'inflammation et utilisation dans le
+traitement des maladies veineuses chroniques. La méthode emploie un critère simple et nouveau pour choisir les descripteurs moléculaires et utilise la validation croisée pour sélectionner les molécules actives.
+critère simple et nouveau pour choisir les descripteurs moléculaires et utilise la validation croisée pour sélectionner les paramètres du SVM.
+
+# objectifs généraux
+Identifier les molécules actives sur les métalloprotéinases à l'aide d'un modèle de prédiction par machine à vecteur de support. 
